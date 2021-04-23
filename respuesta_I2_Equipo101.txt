@@ -1,0 +1,4 @@
+Ezequiel Pazos
+
+a- Lo hago con git fetch al repo que hice fork despues de haberlo clonado y luego hago git rebase al main
+b- Si, puedo actualizarlo al estado de su fork.
