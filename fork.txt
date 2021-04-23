@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ian Garcia 127.0.0.1/8 vie 23 abr 2021 09:11:01 -03
 =======
 Ezequiel Pazos 152.169.188.186 09:13 AM
 >>>>>>> 424bda4... modificando fork.txt
+=======
+Ezequiel Pazos 152.169.188.186 09:13 AM
+>>>>>>> 3bd59f5ef4ec685c829f169f23105793294734c5
